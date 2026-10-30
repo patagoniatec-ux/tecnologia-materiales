@@ -19,5 +19,17 @@
   ],
   "contenidos": [],
   "noticias": [],
-  "galeria": []
+  "galeria": [],
+  "trabajos": [
+    {
+      "id": "deposito-marican-samira",
+      "project": "deposito-100m2",
+      "mode": "individual",
+      "author": "Marican Samira",
+      "title": "Depósito de materiales · 100 m²",
+      "course": "",
+      "description": "Propuesta de depósito de 12,50 × 8,00 m. Lámina con planta arquitectónica, planta de techos, vistas, corte, materiales y pautas de seguridad e higiene.",
+      "url": "documentos/deposito-100m2/Marican_Samira_Deposito.pdf"
+    }
+  ]
 }
