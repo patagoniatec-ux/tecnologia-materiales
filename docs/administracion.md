@@ -37,3 +37,12 @@ Este repositorio es público. Subir únicamente documentos e imágenes que pueda
 - [Tokens de acceso personal](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
 - [Ajustes de GitHub Pages](https://github.com/patagoniatec-ux/tecnologia-materiales/settings/pages)
 - [Acciones de publicación](https://github.com/patagoniatec-ux/tecnologia-materiales/actions)
+
+
+## Trabajos individuales y grupales
+
+En **Trabajos de alumnos**, seleccioná el proyecto (Depósito de materiales u Otros trabajos), modalidad individual o grupal y completá el título, nombres de alumnos, curso/división y reseña opcional. Para grupos podés escribir un integrante por línea y agregar nombre o número de grupo. Adjuntá el PDF (máximo 5 MB) o pegá un enlace directo HTTPS a un PDF y presioná **Publicar material**. Se conserva el mecanismo de conexión y publicación con GitHub del panel.
+
+Los nombres se muestran como encabezado de cada entrega. Los trabajos aparecen en Contenidos; los del proyecto Depósito aparecen además debajo del ejemplo en `deposito-100m2.html`, al que sigue llevando el QR existente. El botón Ampliar PDF abre el visor con zoom y pantalla completa. Editar y Retirar permiten corregir una ficha o quitarla del listado sin borrar su archivo del repositorio.
+
+La publicación requiere permiso de escritura en el repositorio. Sin conexión se puede preparar el formulario, pero el botón de guardar permanece deshabilitado. Los nombres y archivos publicados son públicos.
