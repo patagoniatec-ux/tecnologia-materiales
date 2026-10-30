@@ -7,7 +7,16 @@
     "formEndpoint": "",
     "instagram": ""
   },
-  "biblioteca": [],
+  "biblioteca": [
+    {
+      "id": "deposito-100m2-planos",
+      "title": "Depósito de materiales · 100 m²",
+      "category": "construccion",
+      "description": "Anteproyecto didáctico: planta, techo, fachada, cortes y seguridad e higiene. Cuatro láminas A3. Acceso al proyecto completo desde el destacado de esta página.",
+      "format": "PDF",
+      "url": "documentos/deposito-100m2/Deposito_100m2_Tecnologia_Materiales.pdf"
+    }
+  ],
   "contenidos": [],
   "noticias": [],
   "galeria": []
