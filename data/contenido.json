@@ -15,6 +15,30 @@
       "description": "Anteproyecto didáctico: planta, techo, fachada, cortes y seguridad e higiene. Cuatro láminas A3. Acceso al proyecto completo desde el destacado de esta página.",
       "format": "PDF",
       "url": "documentos/deposito-100m2/Deposito_100m2_Tecnologia_Materiales.pdf"
+    },
+    {
+      "id": "ensayos-acero",
+      "title": "Ensayos de acero: tracción, dureza e impacto Charpy",
+      "category": "metales",
+      "description": "Guía de clase con esquemas, interpretación, aplicaciones y fuentes. Orientada a Metalmecánica.",
+      "format": "WEB",
+      "url": "https://patagoniatec-ux.github.io/tecnologia-materiales/ensayos-materiales.html#acero"
+    },
+    {
+      "id": "ensayos-madera",
+      "title": "Ensayos de madera: flexión, compresión y humedad",
+      "category": "maderas",
+      "description": "Guía de clase con esquemas, interpretación, aplicaciones y fuentes. Orientada a Metalmecánica.",
+      "format": "WEB",
+      "url": "https://patagoniatec-ux.github.io/tecnologia-materiales/ensayos-materiales.html#madera"
+    },
+    {
+      "id": "ensayos-plasticos",
+      "title": "Ensayos de plásticos: tracción, dureza Shore y absorción de agua",
+      "category": "impresion3d",
+      "description": "Guía de clase con esquemas, interpretación, aplicaciones y fuentes. Orientada a Metalmecánica.",
+      "format": "WEB",
+      "url": "https://patagoniatec-ux.github.io/tecnologia-materiales/ensayos-materiales.html#plasticos"
     }
   ],
   "contenidos": [],
