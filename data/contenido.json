@@ -43,7 +43,16 @@
   ],
   "contenidos": [],
   "noticias": [],
-  "galeria": [],
+  "galeria": [
+    {
+      "id": "deposito-materiales-20261106",
+      "title": "Depósito: representación y materiales constructivos",
+      "course": "2.º 2.ª · Ciclo Superior",
+      "description": "Planta, vistas y cortes de un depósito con oficina y sanitario. Identificación de materiales: ladrillos, revoque, panel sándwich y chapa.",
+      "image": "assets/img/deposito-materiales-20261106.svg",
+      "imageAlt": "Lámina de depósito con planta, vistas, cortes y referencias de materiales constructivos"
+    }
+  ],
   "trabajos": [
     {
       "id": "deposito-marican-samira",
