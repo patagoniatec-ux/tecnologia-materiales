@@ -51,6 +51,20 @@
       "description": "Planta, vistas y cortes de un depósito con oficina y sanitario. Identificación de materiales: ladrillos, revoque, panel sándwich y chapa.",
       "image": "assets/img/deposito-materiales-20261106.svg",
       "imageAlt": "Lámina de depósito con planta, vistas, cortes y referencias de materiales constructivos"
+    },
+    {
+      "id": "cinta-transportadora-medero-romero-informe",
+      "title": "Trabajo práctico · Cinta transportadora",
+      "author": "Guadalupe Medero y Luján Romero",
+      "description": "Informe sobre los componentes de una cinta transportadora, sus materiales y su función.",
+      "image": "documentos/cinta-transportadora/TP_Cinta_Transportadora_solo_texto.pdf"
+    },
+    {
+      "id": "cinta-transportadora-medero-romero-plano",
+      "title": "Plano técnico · Cinta transportadora",
+      "author": "Guadalupe Medero y Luján Romero",
+      "description": "Lámina con vistas, corte A–A, perspectiva y cuadro de materiales.",
+      "image": "documentos/cinta-transportadora/Plano_Cinta_Transportadora.pdf"
     }
   ],
   "trabajos": [
