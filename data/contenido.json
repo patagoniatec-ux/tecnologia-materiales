@@ -65,6 +65,22 @@
       "author": "Guadalupe Medero y Luján Romero",
       "description": "Lámina con vistas, corte A–A, perspectiva y cuadro de materiales.",
       "image": "documentos/cinta-transportadora/Plano_Cinta_Transportadora.pdf"
+    },
+    {
+      "id": "cinta-merino-colin-pacheco-plano",
+      "title": "Cinta transportadora · Lámina técnica",
+      "author": "Meriño, Colin y Pacheco",
+      "description": "Vistas, secciones y detalles de la cinta transportadora.",
+      "image": "assets/img/cinta-merino-colin-pacheco-plano.jpg",
+      "imageAlt": "Lámina técnica de cinta transportadora con vistas, secciones y detalles"
+    },
+    {
+      "id": "cinta-merino-colin-pacheco-materiales",
+      "title": "Cinta transportadora · Especificaciones de materiales",
+      "author": "Meriño, Colin y Pacheco",
+      "description": "Cuadro de materiales y justificación técnica del trabajo práctico.",
+      "image": "assets/img/cinta-merino-colin-pacheco-materiales.jpg",
+      "imageAlt": "Lámina de especificaciones de materiales y justificación técnica de Meriño, Colin y Pacheco"
     }
   ],
   "trabajos": [
