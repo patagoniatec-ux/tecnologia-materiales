@@ -39,6 +39,14 @@
       "description": "Guía de clase con esquemas, interpretación, aplicaciones y fuentes. Orientada a Metalmecánica.",
       "format": "WEB",
       "url": "https://patagoniatec-ux.github.io/tecnologia-materiales/ensayos-materiales.html#plasticos"
+    },
+    {
+      "id": "triangulacion-estabilidad-geometrica",
+      "title": "Triangulación y estabilidad geométrica: el triángulo",
+      "category": "construccion",
+      "description": "El triángulo es la configuración geométrica plana mínima que, con sus tres lados de longitud fija y uniones articuladas, constituye una estructura indeformable. A diferencia de un cuadrilátero articulado, no puede cambiar de forma sin modificar la longitud de alguno de sus lados. Por eso la triangulación se utiliza en cerchas de techos, puentes, torres y arriostramientos. La indeformabilidad geométrica no significa que sea irrompible ni garantiza por sí sola la resistencia: también dependen de los materiales, las secciones, las uniones y las cargas.",
+      "format": "FICHA",
+      "url": ""
     }
   ],
   "contenidos": [],
